@@ -1,0 +1,11 @@
+body {
+	background-color: #081c15;
+	font-family:"Roboto", sans-serif;
+}
+a, a:visited, a:hover {
+	color: #ff6b6b;
+}
+.page-content {
+	background-color: #b7e4c7;
+	margin-top: 50px;
+}
