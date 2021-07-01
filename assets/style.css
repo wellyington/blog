@@ -9,3 +9,19 @@ a, a:visited, a:hover {
 	background-color: #b7e4c7;
 	margin-top: 50px;
 }
+.page-content h3 {
+	margin: 0;
+	padding: 0;
+}
+.svg-icon {
+	width: 16px;
+	height: 16px;
+}
+.socialbar ul {
+	list-style: none;
+	padding:0px;
+	margin: 0px;
+}
+.socialbar i {
+	padding-right: 10px;
+}
