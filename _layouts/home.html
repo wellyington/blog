@@ -3,6 +3,11 @@ layout: default
 ---
 
 <div class="home">
+  
+  {%- if page.featured-image -%}
+  <img src="{{ page.featured-image }}">
+  {%- endif -%}
+
   {%- if page.title -%}
     <h1 class="page-heading">{{ page.title }}</h1>
   {%- endif -%}
