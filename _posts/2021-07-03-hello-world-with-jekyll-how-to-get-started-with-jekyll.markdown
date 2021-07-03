@@ -38,7 +38,7 @@ To start with Jekyll the very first step is to download and install Ruby in your
 
 ### Installing GEMs Bundle and Jekyll
 
-Once Ruby os installed in your computer, it is time to work in some commands. Open your terminal, shell or command prompt and navigate into the folder Desktop. `CD Desktop`
+Once Ruby is installed in your computer, it is time to work in some commands. Open your terminal, shell or command prompt and navigate into the folder Desktop. `CD Desktop`
 
 ![Terminal](https://wellyington.github.io/blog/assets/hello-world-with-jekyll-how-to-get-started-with-jekyll/003-cmd.png)
 
