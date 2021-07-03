@@ -22,9 +22,9 @@ layout: default
             {{ post.title | escape }}
           </a>
         </h3>
-          {%- if page.featured-image -%}
+
           <img src="{{ post.featured-image }}">
-          {%- endif -%}
+          
           {{ post.excerpt }}
       </li>
       {%- endfor -%}
