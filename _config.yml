@@ -21,7 +21,7 @@
 title: Wellyington
 email: welly.almeida@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  I am a computer scientist and developer based in Málaga, Spain - graduated in Advertising, but technology is my life much before I get a degree.
+  I am a computer scientist and developer based in Málaga, Spain. Hola amigos! I like AI, automation, embed systems, infrastructure, web and Python.
 baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "https://wellyington.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: wellyington
