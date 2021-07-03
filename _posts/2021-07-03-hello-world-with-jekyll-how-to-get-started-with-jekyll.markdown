@@ -31,37 +31,31 @@ Jekyll is an awesome framework for front-end developers with experience in HTML,
 
 Jekyll is written in Ruby, an interpreted programming language used for science, AI, software and web development, where Ruby is very popular with the Framework Ruby on Rails.
 
-To kick started with Jekyll the very first step is to download and install Ruby in your computer. You can find the latest version for your operational system on the official Ruby's website. 
+To kick started with Jekyll the very first step is to download and install Ruby in your computer. You can find the latest version for your operational system on the [official Ruby's website](https://www.ruby-lang.org/). 
 
-Click here to download the latest version of Ruby for your operational system.
+[Click here](https://www.ruby-lang.org/en/downloads/) to download the latest version of Ruby for your operational system.
 
 With Ruby installed in your computer, it is time to work in some commands. Open your terminal, shell or command prompt and jump into Desktop folder. CD Desktop
 
 ![Terminal](https://wellyington.github.io/blog/assets/hello-world-with-jekyll-how-to-get-started-with-jekyll/003-cmd.png)
 
-1. Use the following command to install Jekyll and Bundle: `gem install bundle jekyll`
+1. Use the following command to install Jekyll and Bundle: `gem install bundle jekyll` and wait for the download and installation to complete.
 
-Wait for the download and installation to complete.
+2. Use the following command to create a Jekyll project: `jekyll new my-blog`. This will create a new folder named my-blog in your desktop. Now jump into the folder with the command `CD my-blog`.
 
-2. Use the following command to create a Jekyll project: `jekyll new my-blog`
-
-This will create a new folder named my-blog in your desktop. Now jump into the folder with the command `CD my-blog`.
-
-3. Use the following command to see files created by Jekyll: `dir` or `ls` (Mac or Linux)
-
-This will list all the files that Jekyll created in the folder.
+3. Use the following command to see files created by Jekyll: `dir` or `ls` (Mac or Linux). This will list all the files that Jekyll created in the folder.
 
 ![Terminal](https://wellyington.github.io/blog/assets/hello-world-with-jekyll-how-to-get-started-with-jekyll/004-cmd.png)
 
-4. Use the following command to build and serve Jekyll: `bundle exec jekyll serve --watch`
+Use the following command to build and serve Jekyll: `bundle exec jekyll serve --watch`
 
-Now Jekyll has built up your blog and is serving at the host http://localhost:4000/. You can access this address with your browser to see your Jekyll blog built in your computer.
+Now Jekyll has built up your blog and is serving at the host [http://localhost:4000/](http://localhost:4000/). You can access this address with your browser to see your Jekyll blog built in your computer.
 
 ![Terminal](https://wellyington.github.io/blog/assets/hello-world-with-jekyll-how-to-get-started-with-jekyll/005-cmd.png)
 
 Jekyll is a static site generation that works with templates and markdowns, and to understand how to make changes and updates in our blog, we need to have a close look at the file system inside the folder `my-blog`.
 
-To perform any changes or make updates in your blog, I strongly advice an IDE of your preference. I am using Sublime Text, but you can pick the one you like most.
+To perform any changes or make updates in your blog, I strongly advice an IDE of your preference. I am using [Sublime Text](https://www.sublimetext.com/), but you can pick the one you like most.
 
 Open the folder `my-blog` in your IDE and that is what we see.
 
@@ -157,11 +151,11 @@ Right after the head, you can also edit freely the content of your page using ma
 
 If we update our site now on the local server, you will notice that your updates are built in your blog.
 
-The post **“Hello World!”** and the page **“Contact Me”.**
+The post **“Hello World!”** and the page **“Contact Me”** are displayed in the site.
 
-Congratulations, now you are officially introduced to Jekyll. There are more to learn about the framework, but now you have a better idea how to start a project and how to take your first steps by your own.
+Congratulations, you are officially introduced to Jekyll. There are more to learn about the framework, but already you have a better idea on how to start a project and how to take your first steps by your own.
 
-Jekyll's official documentation provides a large amount of handful content to help on your your walk-through.
+[Jekyll's official documentation](https://jekyllrb.com/docs/) provides a large amount of handful content to help on your your walk-through.
 
 In a future append to this article I will cover Jekyll includes, templates and how to customize Jekyll´s Minima built in theme with your own CSS.
 
@@ -169,14 +163,14 @@ Jekyll is easy, fast and secure to work and the learning curve is really fast. A
 
 The framework is useful for blogs, corporative websites and with a little of creativity you can connect it to other services using JavaScript and APIs. 
 
-It is worth to know how Jekyll works in your personal projects and how to apply for your clients.
+It is worth to know how Jekyll works for your personal projects and how to apply for your clients.
 
 If you are a front-end developer, you have just gained freedom from back-end developers and can now work in your own generated sites using the simplicity of Jekyll.
 
-The average pay for a professional working with Jekyll is $20 USD to $120 USD per hour on Upwork.
+The average pay for a professional working with Jekyll is **$20 USD** to **$120 USD** per hour on Upwork.
 
 Thank you for reading. Please share this article in the communities that you belong and let everybody knows how simple and fun it is to blog using Jekyll.
 
-Reach me out on Twitter, Instagram or Facebook and let's start a conversation about Jekyll, I am prompt to help you with your doubts and I am interested to know what are your ideas with Jekyll.
+Reach me out on [Twitter](https://twitter.com/wellyington), [Instagram](https://instagram.com/wellyington) or [Facebook](https://facebook.com/wellyington) and let's start a conversation about Jekyll, I am prompt to help you with your doubts and I am interested to know what are your ideas with Jekyll.
 
 Have fun with your new stack.
