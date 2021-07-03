@@ -12,7 +12,8 @@ a, a:visited, a:hover {
 h3 {
 	margin: 0;
 	padding: 0;
-	text-shadow: 0 0 0 0 #000000;
+	margin-bottom: 20px;
+	text-shadow: none;
 	color: #000000;
 }
 .svg-icon {
