@@ -163,7 +163,7 @@ Now when we update our site in the browser, we cam notice that your updates are 
 
 The post **“Hello World!”** and the page **“Contact Me”** are displayed in the site.
 
-**Congratulations**, you are now introduced to Jekyll. There are more to learn about the framework, but you have a better idea on how to start a project and take your first steps by your own.
+**Congratulations**, you are now introduced to Jekyll. There are more to learn about the framework, but you can explorer the docs or watch videos and learn everything you need to know about Jekyll in no more than 2h:30m.
 
 ### Final words
 
@@ -190,5 +190,3 @@ Thank you for reading my documentation. Please share this article in the communi
 Reach me out on [Twitter](https://twitter.com/wellyington), [Instagram](https://instagram.com/wellyington) or [Facebook](https://facebook.com/wellyington) and let's start a conversation about Jekyll, I am looking forward to help you with your doubts and I am interested to know what are your ideas with the framework.
 
 Have fun with your new stack and happy creations.
-
-Cheers, Welly 
