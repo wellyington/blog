@@ -6,7 +6,7 @@ categories: [Jekyll, Framework, Development, Ruby]
 featured-image: https://wellyington.github.io/blog/assets/hello-world-with-jekyll-how-to-get-started-with-jekyll/001-jekyll-logo.png
 ---
 I was hungry to get into something new when Jekyll came up in my Twitter timeline. The idea of blogging using markdowns and static site generation sounded much more attractive than solutions requiring complicated setups, databases and expensive maintenance. I am documenting here the path I followed to get my first Jekyll blog.
-
+<hr>
 Hi everyone, my name is Wellington and I am a computer scientist and developer based in Málaga, Spain. My expertise goes around programming, infrastructure, physics and maths. I love to get myself involved with new projects and I am constantly learning new things.
 
 ![Jekyll](https://wellyington.github.io/blog/assets/hello-world-with-jekyll-how-to-get-started-with-jekyll/001-jekyll-logo.png)
@@ -22,7 +22,7 @@ Jekyll have unbeatable features that makes it faster and more secure than all ot
 
 That means no need of interpreters, complicated servers or database to have your blog live, that represents a massive cut of costs in infrastructure, maintenance and security.
 
-My starting goal with Jekyll was to simply get a blog running, but after few hours of research I realised that the framework is very useful for corporative websites looking to reduce costs from maintenance and infrastructure.
+My starting goal with Jekyll was to simply get a blog running, but after few hours of research I realised that the framework is very powerful for corporative websites looking to reduce costs from maintenance and infrastructure.
 
 It is easy to get started with Jekyll and you won't need any programming skills to get a site up and running. Jekyll is an awesome framework for front-end developers with experience in HTML, CSS and JavaScript.
 
@@ -30,15 +30,15 @@ It is easy to get started with Jekyll and you won't need any programming skills 
 
 ![Jekyll](https://wellyington.github.io/blog/assets/hello-world-with-jekyll-how-to-get-started-with-jekyll/002-ruby-logo.png)
 
-Jekyll is written in Ruby, an interpreted programming language used for science, AI, software and web development, Ruby is very popular with the Framework _Ruby on Rails_.
+Jekyll is written in Ruby, a programming language used for science, AI, software and web development, Ruby is very popular with the Framework _Ruby on Rails_.
 
 To start with Jekyll the very first step is to download and install Ruby in your computer. You can find the latest version for your operational system on the official [Ruby's website](https://www.ruby-lang.org/). 
 
-**[Click here](https://www.ruby-lang.org/en/downloads/)** to download the latest version of Ruby for your operational system.
+**[Click here](https://www.ruby-lang.org/en/downloads/)** to download Ruby.
 
 ### Installing GEMs Bundle and Jekyll
 
-With Ruby installed in your computer, it is time to work in some commands. Open your terminal, shell or command prompt and jump into Desktop folder. `CD Desktop`
+Once Ruby os installed in your computer, it is time to work in some commands. Open your terminal, shell or command prompt and navigate into the folder Desktop. `CD Desktop`
 
 ![Terminal](https://wellyington.github.io/blog/assets/hello-world-with-jekyll-how-to-get-started-with-jekyll/003-cmd.png)
 
@@ -157,15 +157,15 @@ Right after the head, you can also edit freely the content of your page using ma
 
 Now when we update our site in the browser, we cam notice that your updates are built in the blog.
 
-![Sublime Text](https://wellyington.github.io/blog/assets/hello-world-with-jekyll-how-to-get-started-with-jekyll/012-sublime-text.png)
+![Sublime Text](https://wellyington.github.io/blog/assets/hello-world-with-jekyll-how-to-get-started-with-jekyll/012-localhost-chrome.png)
 
 The post **“Hello World!”** and the page **“Contact Me”** are displayed in the site.
 
-**Congratulations**, you are officially introduced to Jekyll. There are more to learn about the framework, but already you have a better idea on how to start a project and how to take your first steps by your own.
+**Congratulations**, you are now introduced to Jekyll. There are more to learn about the framework, but you have a better idea on how to start a project and take your first steps by your own.
 
 ### Final words
 
-[Jekyll's official documentation](https://jekyllrb.com/docs/) provides a large amount of handful content to help you on your path.
+[Jekyll's official documentation](https://jekyllrb.com/docs/) provides a huge amount of handful content to help you on your path.
 
 In a future append to this article I will cover Jekyll includes, templates and how to customize Jekyll´s Minima built in theme with your own CSS.
 
@@ -179,11 +179,11 @@ The framework is useful for blogs, corporative websites and with a little bit of
 * [jeckyllthemes.org](http://jekyllthemes.org/)
 * [jeckyllthemes.io](https://jekyllthemes.io/)
 
-It is worth to know how Jekyll works for your personal projects and how to apply for your clients and if you are a front-end developer, you have just gained freedom from back-end developers and can now work in your own generated sites using the simplicity of Jekyll.
+if you are a front-end developer, you have just gained the freedom from back-end developers and can now work in your own generated sites using the simplicity of Jekyll.
 
-The average pay for a professional working with Jekyll is **$20 USD** to **$120 USD** per hour on [Upwork](https://upwork.com/) and there are plenty of opportunities out there.
+The average pay for a professional working with Jekyll is **$20 USD** to **$120 USD** per hour on [Upwork](https://upwork.com/), and there are plenty of opportunities out there.
 
-Thank you for reading. Please share this article in the communities that you belong and let everybody knows how simple and fun it is to blog using Jekyll.
+Thank you for reading my documentation. Please share this article in the communities that you belong and let everybody knows how simple and fun it is to blog using Jekyll.
 
 Reach me out on [Twitter](https://twitter.com/wellyington), [Instagram](https://instagram.com/wellyington) or [Facebook](https://facebook.com/wellyington) and let's start a conversation about Jekyll, I am looking forward to help you with your doubts and I am interested to know what are your ideas with the framework.
 
