@@ -52,9 +52,9 @@ With Ruby installed in your computer, it is time to work in some commands. Open 
 
 Use the following command to build and serve Jekyll: `bundle exec jekyll serve --watch`
 
-Now Jekyll has built up your blog and is serving at the host [http://localhost:4000/](http://localhost:4000/). You can access this address with your browser to see your Jekyll blog built in your computer.
-
 ![Terminal](https://wellyington.github.io/blog/assets/hello-world-with-jekyll-how-to-get-started-with-jekyll/005-cmd.png)
+
+Now Jekyll has built up your blog and is serving at the host [http://localhost:4000/](http://localhost:4000/). You can access this address with your browser to see your Jekyll blog working.
 
 ![Localhost:4000](https://wellyington.github.io/blog/assets/hello-world-with-jekyll-how-to-get-started-with-jekyll/006-localhost-chrome.png)
 
