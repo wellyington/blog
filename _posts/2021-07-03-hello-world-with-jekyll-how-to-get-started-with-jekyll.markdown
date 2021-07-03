@@ -27,6 +27,8 @@ I will also mention about how easy it is to get started with Jekyll. It can be a
 
 Jekyll is an awesome framework for front-end developers with experience in HTML, CSS and JavaScript.
 
+### Getting started with Ruby
+
 ![Jekyll](https://wellyington.github.io/blog/assets/hello-world-with-jekyll-how-to-get-started-with-jekyll/002-ruby-logo.png)
 
 Jekyll is written in Ruby, an interpreted programming language used for science, AI, software and web development, where Ruby is very popular with the Framework Ruby on Rails.
@@ -35,7 +37,9 @@ To kick started with Jekyll the very first step is to download and install Ruby 
 
 [Click here](https://www.ruby-lang.org/en/downloads/) to download the latest version of Ruby for your operational system.
 
-With Ruby installed in your computer, it is time to work in some commands. Open your terminal, shell or command prompt and jump into Desktop folder. CD Desktop
+### Installing GEMs Bundle and Jekyll
+
+With Ruby installed in your computer, it is time to work in some commands. Open your terminal, shell or command prompt and jump into Desktop folder. `CD Desktop`
 
 ![Terminal](https://wellyington.github.io/blog/assets/hello-world-with-jekyll-how-to-get-started-with-jekyll/003-cmd.png)
 
@@ -55,31 +59,31 @@ Now Jekyll has built up your blog and is serving at the host [http://localhost:4
 
 Jekyll is a static site generation that works with templates and markdowns, and to understand how to make changes and updates in our blog, we need to have a close look at the file system inside the folder `my-blog`.
 
+### Updating Jerkyll
+
 To perform any changes or make updates in your blog, I strongly advice an IDE of your preference. I am using [Sublime Text](https://www.sublimetext.com/), but you can pick the one you like most.
 
 Open the folder `my-blog` in your IDE and that is what we see.
 
 ![Terminal](https://wellyington.github.io/blog/assets/hello-world-with-jekyll-how-to-get-started-with-jekyll/006-localhost-chrome.png)
 
-Folder `_posts`: Contain markdown files of your posts, posts must be named following this rule: `YEAR-MONTH-DAY-title.MARKUP`
+* Folder `_posts`: Contain markdown files of your posts, posts must be named following this rule: `YEAR-MONTH-DAY-title.MARKUP`
 
-Example:  `2021-07-03-welcome-to-jekyll.markdown
-`
-Folder `_site`: Contain the build up of your site. You don't need to change anything in this folder.
+Example:  `2021-07-03-welcome-to-jekyll.markdown`
 
-File `.gitignore`: GitHub .gitignore file.
-File `404.html`: 404 Erro Page.
-File `_config.yml`: Configuration file of your blog.
-File `about.markdown`: About page file.
-File `Gemfile`: Ruby configuration file.
-File `Gemfile.lock`: Ruby lock file.
-File `index.markdown`: Home page of your blog.
+* Folder `_site`: Contain the build up of your site. You don't need to change anything in this folder.
+
+* File `.gitignore`: GitHub .gitignore file.
+* File `404.html`: 404 Erro Page.
+* File `_config.yml`: Configuration file of your blog.
+* File `about.markdown`: About page file.
+* File `Gemfile`: Ruby configuration file.
+* File `Gemfile.lock`: Ruby lock file.
+* File `index.markdown`: Home page of your blog.
 
 The first folder to look at is `_posts`. The only fine in it is named something like `2021-07-03-welcome-to-jekyll.markdown`. That is a markdown file and what Jekyll uses to generate the content and site structure of your blog.
 
-All posts must be created in a markdown file named accordingly to the standard.
-
-Example: `2021-07-03-welcome-to-jekyll.markdown`
+All posts must be created in a markdown file named accordingly to the standard. `YEAR-MONTH-DAY-title.MARKUP`
 
 ![Sublime Text](https://wellyington.github.io/blog/assets/hello-world-with-jekyll-how-to-get-started-with-jekyll/007-sublime-text.png)
 
@@ -149,11 +153,13 @@ Right after the head, you can also edit freely the content of your page using ma
 
 ![Sublime Text](https://wellyington.github.io/blog/assets/hello-world-with-jekyll-how-to-get-started-with-jekyll/011-sublime-text.png)
 
-If we update our site now on the local server, you will notice that your updates are built in your blog.
+If we update our site in the browser, you will notice that your updates are built in your blog.
 
 The post **“Hello World!”** and the page **“Contact Me”** are displayed in the site.
 
 Congratulations, you are officially introduced to Jekyll. There are more to learn about the framework, but already you have a better idea on how to start a project and how to take your first steps by your own.
+
+### Final words
 
 [Jekyll's official documentation](https://jekyllrb.com/docs/) provides a large amount of handful content to help on your your walk-through.
 
@@ -163,11 +169,17 @@ Jekyll is easy, fast and secure to work and the learning curve is really fast. A
 
 The framework is useful for blogs, corporative websites and with a little of creativity you can connect it to other services using JavaScript and APIs. 
 
+#### Check out some theme resources for Jekyll:
+
+* [jamstackthemes.dev](https://jamstackthemes.dev/ssg/jekyll/)
+* [jeckyllthemes.org](http://jekyllthemes.org/)
+* [jeckyllthemes.io](https://jekyllthemes.io/)
+
 It is worth to know how Jekyll works for your personal projects and how to apply for your clients.
 
 If you are a front-end developer, you have just gained freedom from back-end developers and can now work in your own generated sites using the simplicity of Jekyll.
 
-The average pay for a professional working with Jekyll is **$20 USD** to **$120 USD** per hour on Upwork.
+The average pay for a professional working with Jekyll is **$20 USD** to **$120 USD** per hour on [Upwork](https://upwork.com/).
 
 Thank you for reading. Please share this article in the communities that you belong and let everybody knows how simple and fun it is to blog using Jekyll.
 

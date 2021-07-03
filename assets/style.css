@@ -12,6 +12,8 @@ a, a:visited, a:hover {
 .page-content h3 {
 	margin: 0;
 	padding: 0;
+	text-shadow: none;
+	color: none;
 }
 .svg-icon {
 	width: 16px;
