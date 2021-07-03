@@ -7,36 +7,34 @@ featured-image: https://wellyington.github.io/blog/assets/hello-world-with-jekyl
 ---
 I was hungry to get into something new when Jekyll came up in my Twitter timeline. The idea of blogging using markdowns and static site generation sounded much more attractive than solutions requiring complicated setups, databases and expensive maintenance. I am documenting here the path I followed to get my first Jekyll blog.
 
-Hi everyone, my name is Wellington and I am a computer scientist and developer based in Malaga, Spain. My expertise goes around programming, infrastructure, physics and maths. I love to get myself involved with new projects and I am constantly learning new things.
+Hi everyone, my name is Wellington and I am a computer scientist and developer based in Málaga, Spain. My expertise goes around programming, infrastructure, physics and maths. I love to get myself involved with new projects and I am constantly learning new things.
 
 ![Jekyll](https://wellyington.github.io/blog/assets/hello-world-with-jekyll-how-to-get-started-with-jekyll/001-jekyll-logo.png)
 
-I have been courting Jekyll for few weeks now and recently I decided to dedicate some time to get familiar with the framework. Jekyll is a static site generator wrote in Ruby and with full support for markdown language, turning the blogging experience much faster and easier.
+I have been looking at Jekyll for few weeks now and recently I decided to dedicate some time to get familiar with the framework. Jekyll is a static site generator wrote in Ruby and with full support for markdown, turning the blogging experience much faster and easier.
 
-Jekyll have unbeatable features that makes it much faster and secure than all other blogging frameworks out in the market. 
+Jekyll have unbeatable features that makes it faster and more secure than all other blogging frameworks out in the market. 
 
 * Site generation
 * HTML and CSS only
 * No Database required
 * Updated via Markdowns
 
-Jekyll is a static site generator, that means no need of interpreters, complicated servers or database to have your blog live, that represents a massive cut of costs in infrastructure, maintenance and security.
+That means no need of interpreters, complicated servers or database to have your blog live, that represents a massive cut of costs in infrastructure, maintenance and security.
 
-My starting point with Jekyll was to simply get a blog running, but after hours of research I realised that the framework is very useful for corporative websites looking to reduce costs from maintenance and infrastructure.
+My starting goal with Jekyll was to simply get a blog running, but after few hours of research I realised that the framework is very useful for corporative websites looking to reduce costs from maintenance and infrastructure.
 
-I will also mention about how easy it is to get started with Jekyll. It can be a little different in the beginning, mostly if you are already familiar with programming languages, the truth is that you won't need any programming skills to get a site up and running.
-
-Jekyll is an awesome framework for front-end developers with experience in HTML, CSS and JavaScript.
+It is easy to get started with Jekyll and you won't need any programming skills to get a site up and running. Jekyll is an awesome framework for front-end developers with experience in HTML, CSS and JavaScript.
 
 ### Getting started with Ruby
 
 ![Jekyll](https://wellyington.github.io/blog/assets/hello-world-with-jekyll-how-to-get-started-with-jekyll/002-ruby-logo.png)
 
-Jekyll is written in Ruby, an interpreted programming language used for science, AI, software and web development, where Ruby is very popular with the Framework Ruby on Rails.
+Jekyll is written in Ruby, an interpreted programming language used for science, AI, software and web development, Ruby is very popular with the Framework _Ruby on Rails_.
 
-To kick started with Jekyll the very first step is to download and install Ruby in your computer. You can find the latest version for your operational system on the [official Ruby's website](https://www.ruby-lang.org/). 
+To start with Jekyll the very first step is to download and install Ruby in your computer. You can find the latest version for your operational system on the official [Ruby's website](https://www.ruby-lang.org/). 
 
-[Click here](https://www.ruby-lang.org/en/downloads/) to download the latest version of Ruby for your operational system.
+**[Click here](https://www.ruby-lang.org/en/downloads/)** to download the latest version of Ruby for your operational system.
 
 ### Installing GEMs Bundle and Jekyll
 
@@ -44,11 +42,11 @@ With Ruby installed in your computer, it is time to work in some commands. Open 
 
 ![Terminal](https://wellyington.github.io/blog/assets/hello-world-with-jekyll-how-to-get-started-with-jekyll/003-cmd.png)
 
-1. Use the following command to install Jekyll and Bundle: `gem install bundle jekyll` and wait for the download and installation to complete.
+1. Use the following command to install Jekyll and Bundle: `gem install bundle jekyll`. Wait for the download and installation to complete.
 
 2. Use the following command to create a Jekyll project: `jekyll new my-blog`. This will create a new folder named my-blog in your desktop. Now jump into the folder with the command `CD my-blog`.
 
-3. Use the following command to see files created by Jekyll: `dir` or `ls` (Mac or Linux). This will list all the files that Jekyll created in the folder.
+3. Use the following command to see files created by Jekyll: `dir` (Windows) or `ls` (Mac or Linux). This will list all the files that Jekyll created in the folder.
 
 ![Terminal](https://wellyington.github.io/blog/assets/hello-world-with-jekyll-how-to-get-started-with-jekyll/004-cmd.png)
 
@@ -58,15 +56,18 @@ Now Jekyll has built up your blog and is serving at the host [http://localhost:4
 
 ![Terminal](https://wellyington.github.io/blog/assets/hello-world-with-jekyll-how-to-get-started-with-jekyll/005-cmd.png)
 
+![Localhost:4000](https://wellyington.github.io/blog/assets/hello-world-with-jekyll-how-to-get-started-with-jekyll/006-localhost-chrome.png)
+
 Jekyll is a static site generation that works with templates and markdowns, and to understand how to make changes and updates in our blog, we need to have a close look at the file system inside the folder `my-blog`.
 
 ### Updating Jerkyll
 
-To perform any changes or make updates in your blog, I strongly advice an IDE of your preference. I am using [Sublime Text](https://www.sublimetext.com/), but you can pick the one you like most.
+To make any changes or updates in your blog, I strongly advice you to use an IDE of your preference. I am using [Sublime Text](https://www.sublimetext.com/), but you can pick the one you like the most.
 
 Open the folder `my-blog` in your IDE and that is what we see.
 
-![Terminal](https://wellyington.github.io/blog/assets/hello-world-with-jekyll-how-to-get-started-with-jekyll/006-localhost-chrome.png)
+![Sublime Text](https://wellyington.github.io/blog/assets/hello-world-with-jekyll-how-to-get-started-with-jekyll/007-sublime-text.png)
+
 
 * Folder `_posts`: Contain markdown files of your posts, posts must be named following this rule: `YEAR-MONTH-DAY-title.MARKUP`
 
@@ -86,11 +87,11 @@ The first folder to look at is `_posts`. The only fine in it is named something 
 
 All posts must be created in a markdown file named accordingly to the standard. `YEAR-MONTH-DAY-title.MARKUP`
 
-![Sublime Text](https://wellyington.github.io/blog/assets/hello-world-with-jekyll-how-to-get-started-with-jekyll/007-sublime-text.png)
+![Sublime Text](https://wellyington.github.io/blog/assets/hello-world-with-jekyll-how-to-get-started-with-jekyll/008-sublime-text.png)
 
 When you open the only file in the folder `_posts`, you will see that the file have a head that looks like this.
 
-```Jekyll
+```Jerkyll
 ---
 layout: post
 title:  "Welcome to Jekyll!"
@@ -103,12 +104,12 @@ All posts must have this head to define the layout, title, date, time and catego
 
 Jekyll will use the file name to build your site-map structure, but the information displayed from every posts, comes from the head of the file.
 
-If you want to create a post with the title “Hello World!”, here are the steps to take.
+If you want to create a post with the title “Hello World!”, these are the steps to take.
 
 1. Create a file named 2021-07-03-hello-world.markdown in the folder `_posts`
 2. Add the following head to the markdown file.
 
-```Jekyll
+```Jerkyll
 ---
 layout: post
 title:  "Hello World!"
@@ -117,7 +118,7 @@ categories: jekyll update
 ---
 ```
 
-![Sublime Text](https://wellyington.github.io/blog/assets/hello-world-with-jekyll-how-to-get-started-with-jekyll/008-sublime-text.png)
+![Sublime Text](https://wellyington.github.io/blog/assets/hello-world-with-jekyll-how-to-get-started-with-jekyll/009-sublime-text.png)
 
 After the mandatory head, you can work in your post freely using markdown to build your content. If you are not familiar with markdown, check the Jekyll docs to get started.
 
@@ -154,21 +155,23 @@ Right after the head, you can also edit freely the content of your page using ma
 
 ![Sublime Text](https://wellyington.github.io/blog/assets/hello-world-with-jekyll-how-to-get-started-with-jekyll/011-sublime-text.png)
 
-If we update our site in the browser, you will notice that your updates are built in your blog.
+Now when we update our site in the browser, we cam notice that your updates are built in the blog.
+
+![Sublime Text](https://wellyington.github.io/blog/assets/hello-world-with-jekyll-how-to-get-started-with-jekyll/012-sublime-text.png)
 
 The post **“Hello World!”** and the page **“Contact Me”** are displayed in the site.
 
-Congratulations, you are officially introduced to Jekyll. There are more to learn about the framework, but already you have a better idea on how to start a project and how to take your first steps by your own.
+**Congratulations**, you are officially introduced to Jekyll. There are more to learn about the framework, but already you have a better idea on how to start a project and how to take your first steps by your own.
 
 ### Final words
 
-[Jekyll's official documentation](https://jekyllrb.com/docs/) provides a large amount of handful content to help on your your walk-through.
+[Jekyll's official documentation](https://jekyllrb.com/docs/) provides a large amount of handful content to help you on your path.
 
 In a future append to this article I will cover Jekyll includes, templates and how to customize Jekyll´s Minima built in theme with your own CSS.
 
-Jekyll is easy, fast and secure to work and the learning curve is really fast. Anyone with little technical skills is able to get a Jekyll site running in a couple of hours.
+Jekyll is easy, fast, secure and the learning curve is really fast. Anyone with little technical skills is able to get a Jekyll site running in a couple of hours.
 
-The framework is useful for blogs, corporative websites and with a little of creativity you can connect it to other services using JavaScript and APIs. 
+The framework is useful for blogs, corporative websites and with a little bit of creativity you can connect it to other services using JavaScript and APIs. 
 
 #### Check out some theme resources for Jekyll:
 
@@ -176,14 +179,14 @@ The framework is useful for blogs, corporative websites and with a little of cre
 * [jeckyllthemes.org](http://jekyllthemes.org/)
 * [jeckyllthemes.io](https://jekyllthemes.io/)
 
-It is worth to know how Jekyll works for your personal projects and how to apply for your clients.
+It is worth to know how Jekyll works for your personal projects and how to apply for your clients and if you are a front-end developer, you have just gained freedom from back-end developers and can now work in your own generated sites using the simplicity of Jekyll.
 
-If you are a front-end developer, you have just gained freedom from back-end developers and can now work in your own generated sites using the simplicity of Jekyll.
-
-The average pay for a professional working with Jekyll is **$20 USD** to **$120 USD** per hour on [Upwork](https://upwork.com/).
+The average pay for a professional working with Jekyll is **$20 USD** to **$120 USD** per hour on [Upwork](https://upwork.com/) and there are plenty of opportunities out there.
 
 Thank you for reading. Please share this article in the communities that you belong and let everybody knows how simple and fun it is to blog using Jekyll.
 
-Reach me out on [Twitter](https://twitter.com/wellyington), [Instagram](https://instagram.com/wellyington) or [Facebook](https://facebook.com/wellyington) and let's start a conversation about Jekyll, I am prompt to help you with your doubts and I am interested to know what are your ideas with Jekyll.
+Reach me out on [Twitter](https://twitter.com/wellyington), [Instagram](https://instagram.com/wellyington) or [Facebook](https://facebook.com/wellyington) and let's start a conversation about Jekyll, I am looking forward to help you with your doubts and I am interested to know what are your ideas with the framework.
 
-Have fun with your new stack.
+Have fun with your new stack and happy creations.
+
+Cheers, Welly 
