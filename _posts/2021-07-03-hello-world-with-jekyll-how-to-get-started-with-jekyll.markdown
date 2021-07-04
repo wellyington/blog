@@ -5,7 +5,7 @@ date:   2021-07-03 13:36:00 +0200
 categories: [Jekyll, Framework, Development, Ruby]
 featured-image: https://wellyington.github.io/blog/assets/hello-world-with-jekyll-how-to-get-started-with-jekyll/001-jekyll-logo.png
 ---
-I was hungry to get into something new when Jekyll came up in my Twitter timeline. The idea of blogging using markdowns and static site generation sounded much more attractive than solutions requiring complicated setups, databases and expensive maintenance. I am documenting my path to get my first Jekyll site running.
+I was hungry to get into something new when Jekyll came up in my Twitter timeline. The idea of blogging using markdowns and static site generation sounded much more attractive than solutions requiring complicated setups, databases and expensive maintenance. I am documenting here my path to get my first Jekyll site running.
 
 <hr>
 
@@ -29,8 +29,6 @@ My starting goal with Jekyll was to simply get a blog running, but after few hou
 It is easy to get started with Jekyll and you won't need any programming skills to get a site up and running. Jekyll is an awesome framework for front-end developers with experience in HTML, CSS and JavaScript.
 
 ### Getting started with Ruby
-
-![Jekyll](https://wellyington.github.io/blog/assets/hello-world-with-jekyll-how-to-get-started-with-jekyll/002-ruby-logo.png)
 
 Jekyll is written in Ruby, a programming language used for science, AI, software and web development, Ruby is very popular with the Framework _Ruby on Rails_.
 
@@ -71,7 +69,7 @@ Open the folder `my-blog` in your IDE and that is what we see.
 ![Sublime Text](https://wellyington.github.io/blog/assets/hello-world-with-jekyll-how-to-get-started-with-jekyll/007-sublime-text.png)
 
 
-* Folder `_posts`: Contain markdown files of your posts, posts must be named following this rule: `YEAR-MONTH-DAY-title.MARKUP`
+* Folder `_posts`: Contain markdown files of your posts, posts must be named following this rule: `YEAR-MONTH-DAY-title.markdown`
 
 Example:  `2021-07-03-welcome-to-jekyll.markdown`
 
@@ -87,7 +85,7 @@ Example:  `2021-07-03-welcome-to-jekyll.markdown`
 
 The first folder to look at is `_posts`. The only fine in it is named something like `2021-07-03-welcome-to-jekyll.markdown`. That is a markdown file and what Jekyll uses to generate the content and site structure of your blog.
 
-All posts must be created in a markdown file named accordingly to the standard. `YEAR-MONTH-DAY-title.MARKUP`
+All posts must be created in a markdown file named accordingly to the standard. `YEAR-MONTH-DAY-title.markdown`
 
 ![Sublime Text](https://wellyington.github.io/blog/assets/hello-world-with-jekyll-how-to-get-started-with-jekyll/008-sublime-text.png)
 
@@ -163,7 +161,7 @@ Now when we update our site in the browser, we cam notice that your updates are 
 
 The post **“Hello World!”** and the page **“Contact Me”** are displayed in the site.
 
-**Congratulations**, you are now introduced to Jekyll. There are more to learn about the framework, but you can explorer the docs or watch videos and learn everything you need to know about Jekyll in no more than 2h:30m.
+**Congratulations**, you are now introduced to Jekyll. There are more to learn about the framework, but you can explorer the documentation and watch videos to learn everything you need to know about Jekyll in no more than 2h:30m. Jekyl is very easy to learn.
 
 ### Final words
 
