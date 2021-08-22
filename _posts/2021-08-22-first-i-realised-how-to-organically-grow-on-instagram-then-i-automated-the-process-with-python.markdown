@@ -107,10 +107,9 @@ For the time being the bot is only engaging with posts from informed hashtags as
 If you have no clues about Python, but you are a community manager and you would like to adopt my robot as your tool, please send me a message on [Instagram](https://instagram.com/wellyington/) and I will be happy to help you out.
 
 Check out the video of the robot in action:
-{:refdef: style="text-align: center;"}
+<center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vvYO4hLLv8A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-{: refdef}
-
+</center>
 Do you like the bot and the publication? Please support it here on medium and spread the word among your crew, I am sure this little piece of script will be super useful for many people in the community management business.
 
 Remember to follow me on Instagram, join the conversation, share your ideas and get updates about what I am involved with.
