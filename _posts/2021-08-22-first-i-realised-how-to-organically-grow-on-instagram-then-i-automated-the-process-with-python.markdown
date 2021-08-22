@@ -108,7 +108,7 @@ If you have no clues about Python, but you are a community manager and you would
 
 Check out the video of the robot in action:
 <center>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vvYO4hLLv8A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" src="https://www.youtube.com/embed/vvYO4hLLv8A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </center>
 Do you like the bot and the publication? Please support it here on medium and spread the word among your crew, I am sure this little piece of script will be super useful for many people in the community management business.
 
