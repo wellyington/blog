@@ -15,7 +15,7 @@ My first wrong belief was to think that Instagram is easy, I didn’t start to m
 
 It was only after a couple of key pieces of information that my results started to change. I was in a hostel in Budapest back in 2018 when I bumped into a blog post that explains how to build engagement using the explorer from Instagram, yes, the little magnifier search icon in the app.
 
-{:refdef: style="float: left; margin-right: 10px;"}
+{:refdef: style="float: left; margin-right: 20px;"}
 ![Instagram](https://miro.medium.com/max/432/1*Igz14L-LtIhqe9vvWEBIJg.png)
 {: refdef}
 
