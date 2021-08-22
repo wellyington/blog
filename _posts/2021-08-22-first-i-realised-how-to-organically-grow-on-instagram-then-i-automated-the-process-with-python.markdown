@@ -107,8 +107,9 @@ For the time being the bot is only engaging with posts from informed hashtags as
 If you have no clues about Python, but you are a community manager and you would like to adopt my robot as your tool, please send me a message on [Instagram](https://instagram.com/wellyington/) and I will be happy to help you out.
 
 Check out the video of the robot in action:
-
+{:refdef: style="text-align: center;"}
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vvYO4hLLv8A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{: refdef}
 
 Do you like the bot and the publication? Please support it here on medium and spread the word among your crew, I am sure this little piece of script will be super useful for many people in the community management business.
 
@@ -122,6 +123,6 @@ I hope this article adds value for your professional development and that I have
 
 Thank you for passing by. Until next time.
 
-![Data Driven Invest](https://ucarecdn.com/4c04fcf1-36e6-49a9-b2fb-9a82886af1a1/DataDrivenInvestor2.png)
+[![Data Driven Invest](https://ucarecdn.com/4c04fcf1-36e6-49a9-b2fb-9a82886af1a1/DataDrivenInvestor2.png)](https://medium.datadriveninvestor.com/first-i-realised-how-to-organically-grow-on-instagram-then-i-automated-the-process-with-python-2a46ccd33abe)
 
 This publication came first on [Data Driven Investor](https://medium.datadriveninvestor.com/first-i-realised-how-to-organically-grow-on-instagram-then-i-automated-the-process-with-python-2a46ccd33abe) on May, 3rd, 2020.
