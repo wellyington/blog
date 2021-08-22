@@ -15,7 +15,9 @@ My first wrong belief was to think that Instagram is easy, I didn’t start to m
 
 It was only after a couple of key pieces of information that my results started to change. I was in a hostel in Budapest back in 2018 when I bumped into a blog post that explains how to build engagement using the explorer from Instagram, yes, the little magnifier search icon in the app.
 
+{:refdef: style="float: left;"}
 ![Instagram](https://miro.medium.com/max/432/1*Igz14L-LtIhqe9vvWEBIJg.png)
+{: refdef}
 
 While most people think that successful Instagram accounts are built only with amazing content or paid followers, the real tool to grow any Instagram account is right under our noses.
 
@@ -106,7 +108,7 @@ If you have no clues about Python, but you are a community manager and you would
 
 Check out the video of the robot in action:
 
-<iframe width="420" height="315" src="http://www.youtube.com/embed/vvYO4hLLv8A" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vvYO4hLLv8A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Do you like the bot and the publication? Please support it here on medium and spread the word among your crew, I am sure this little piece of script will be super useful for many people in the community management business.
 
